@@ -20,7 +20,7 @@ const changeState = (prop) => {
 }
 
 // variables
-const feed = changeState("haiku");
+const feed = changeState("soil");
 const blueFood = changeState("soil")(5);
 
 // $(document).ready(function() {
